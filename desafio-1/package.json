@@ -1,0 +1,16 @@
+{
+  "name": "desafio-1",
+  "version": "1.0.0",
+  "description": "Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando Express.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
